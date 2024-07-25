@@ -1,4 +1,6 @@
 #!/bin/bash
+#scrypt z ksiazki "Cyberbezpieczenstwo w bashi" - Paul Troncone, Carl Albing
+
 TGZ=0
 if (( $# > 0 ))
 then
