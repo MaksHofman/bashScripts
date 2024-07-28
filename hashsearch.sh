@@ -30,6 +30,7 @@ do
 	if [[ $THISONE == $HASH ]]
 	then
 		mkabspath "$fn"
+		ABS=${ABS//.\//}
 		echo $ABS
 	fi
 done
