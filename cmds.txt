@@ -1,0 +1,9 @@
+# polecenia linux |MsWin Bash |znaczniki XML |cel
+uname -a          |uname -a |uname |wersjia systemu operacyjnego
+cat /proc/cpuinfo |systeminfo |sysinfo |info o sys
+ifconfig          |ipconfig |nwinterface |info o interfesach systemowych
+route             |route print |nwroute |tabela trasowania
+arp -a            |arp -a |nwrap |tabela arp
+netstat -a        |netstat -a |netstat | poloczenia sieciowe
+mount             |net share |diskinfo |podlaczone dyski
+ps -e             |tasklist |processes |uruchomione processy
